@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+nltk
+pymystem3
+beautifulsoup4
+requests
+jupyter
+spacy
+youtokentome
